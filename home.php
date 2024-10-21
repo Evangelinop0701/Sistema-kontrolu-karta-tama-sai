@@ -4,11 +4,11 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">
-                Baranda <small></small>
+                home <small></small>
             </h1>
             <ol class="breadcrumb">
                 <li class="active">
-                    <i class="fa fa-home"></i> Baranda
+                    <i class="fa fa-home"></i> home
                 </li>
             </ol>
         </div>
@@ -23,7 +23,7 @@
                         </div>
                         <div class="col-xs-9 text-right">
                             <div class="huge"><?= $total_kt[0]['total_tipo'] ?></div>
-                            <div>Total Karta Tama</div>
+                            <div>Total Karta sira ne'ebe Tama</div>
                         </div>
                     </div>
                 </div>
